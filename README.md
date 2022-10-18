@@ -1,1 +1,2 @@
-# Unit3-06-CPP
+# Unit3-06-
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-Programming-VanN/Unit3-06-CPP/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-Programming-VanN/Unit3-06-CPP/actions/)
